@@ -1,0 +1,21 @@
+Key,english
+ObjectiveMailDeliver,Deliver Mail
+ObjectiveAirDrop,Wait for Air Drop
+ObjectiveKeepAirDropAlive,Keep Air-Drop alive
+ObjectiveWaitForFlightPlan,Wait for Plane
+ObjectiveWaitForAirDrop,Wait for Air-Drop
+ObjectiveWaitForTouchDown,Wait for Landing
+ObjectiveGetToAirDrop,Get Air-Drop
+ObjectiveKillEnemies,Kill Attackers
+ObjectiveWaitForServer,Wait for Position
+ObjectiveWaitForStart,Wait for Start
+PrepareForBattle,Prepare for battle
+EntityAirDropWait,Wait for quest to finish
+waiting,Waiting
+
+ObjectiveStayInArea,Stay in area
+ObjectiveReachArea,Go to area
+questMailDeliveryDesc,Mail Delivery Item
+
+HeadToTrader,Head to Trader:
+HeadToPosition,Head to Position:

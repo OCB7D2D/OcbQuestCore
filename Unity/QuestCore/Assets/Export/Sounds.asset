@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9aafab5ec24e3a468cbf65f5c7e23b0, type: 3}
+  m_Name: Sounds
+  m_EditorClassIdentifier: 
+  Path: ..\..\..\Resources\Sounds.unity3d
+  IncludeAssetsFromFolders: 0
+  SearchFoldersRecursively: 0
+  CreateDeterministicAssetBundle: 1
+  AppendHashToAssetBundleName: 1
+  Compression: 1
+  VerboseLogging: 0
+  Objects:
+  - {fileID: 8300000, guid: 6969240bcfaa6f74d84f3650c4383010, type: 3}
+  - {fileID: 8300000, guid: 236d33ea4fc82f44dbfa20437a8b8825, type: 3}
+  - {fileID: 8300000, guid: b3857f75c41550543a041c1902532bcc, type: 3}
+  - {fileID: 8300000, guid: aaf06ac593eafde48ae7c420cf26f529, type: 3}

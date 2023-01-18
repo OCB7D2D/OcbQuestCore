@@ -1,0 +1,51 @@
+<ocb>
+	<append xpath="/Sounds">
+		<SoundDataNode name="ocb-warning-01">
+			<AudioSource name="Sounds/AudioSource_PlayerLoop"/>
+			<AudioClip ClipName="#@modfolder:Resources/Sounds.unity3d?warning-01" Loop="true"/>
+			<!-- doesn't seem to do much for play inside head? -->
+			<LocalCrouchVolumeScale value="0.75"/>
+			<runningvolumescale value="1.25"/>
+			<CrouchNoiseScale value="0"/>
+			<NoiseScale value="0"/>
+			<MaxRepeatRate value="0"/>
+			<MaxVoices value="1"/>
+		</SoundDataNode>
+
+		<SoundDataNode name="ocb-warning-02">
+			<AudioSource name="Sounds/AudioSource_PlayerLoop"/>
+			<AudioClip ClipName="#@modfolder:Resources/Sounds.unity3d?warning-02" Loop="true"/>
+			<!-- doesn't seem to do much for play inside head? -->
+			<LocalCrouchVolumeScale value="0.75"/>
+			<runningvolumescale value="1.25"/>
+			<CrouchNoiseScale value="0"/>
+			<NoiseScale value="0"/>
+			<MaxRepeatRate value="0"/>
+			<MaxVoices value="1"/>
+		</SoundDataNode>
+
+		<SoundDataNode name="ocb-warning-03">
+			<AudioSource name="Sounds/AudioSource_PlayerLoop"/>
+			<AudioClip ClipName="#@modfolder:Resources/Sounds.unity3d?warning-03" Loop="true"/>
+			<!-- doesn't seem to do much for play inside head? -->
+			<LocalCrouchVolumeScale value="0.75"/>
+			<runningvolumescale value="1.25"/>
+			<CrouchNoiseScale value="0"/>
+			<NoiseScale value="0"/>
+			<MaxRepeatRate value="0"/>
+			<MaxVoices value="1"/>
+		</SoundDataNode>
+
+		<SoundDataNode name="ocb-warning-04">
+			<AudioSource name="Sounds/AudioSource_PlayerLoop"/>
+			<AudioClip ClipName="#@modfolder:Resources/Sounds.unity3d?warning-04" Loop="true"/>
+			<!-- doesn't seem to do much for play inside head? -->
+			<LocalCrouchVolumeScale value="0.75"/>
+			<runningvolumescale value="1.25"/>
+			<CrouchNoiseScale value="0"/>
+			<NoiseScale value="0"/>
+			<MaxRepeatRate value="0"/>
+			<MaxVoices value="1"/>
+		</SoundDataNode>
+	</append>
+</ocb>
